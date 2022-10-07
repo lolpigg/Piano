@@ -1,0 +1,8 @@
+C:\Users\igosh\source\repos\пианиноблин\obj\Debug\пианиноблин.csproj.AssemblyReference.cache
+C:\Users\igosh\source\repos\пианиноблин\obj\Debug\пианиноблин.csproj.SuggestedBindingRedirects.cache
+C:\Users\igosh\source\repos\пианиноблин\obj\Debug\пианиноблин.csproj.CoreCompileInputs.cache
+C:\Users\igosh\source\repos\пианиноблин\bin\Debug\пианиноблин.exe.config
+C:\Users\igosh\source\repos\пианиноблин\bin\Debug\пианиноблин.exe
+C:\Users\igosh\source\repos\пианиноблин\bin\Debug\пианиноблин.pdb
+C:\Users\igosh\source\repos\пианиноблин\obj\Debug\пианиноблин.exe
+C:\Users\igosh\source\repos\пианиноблин\obj\Debug\пианиноблин.pdb
